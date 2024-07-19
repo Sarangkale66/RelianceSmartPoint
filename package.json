@@ -1,0 +1,19 @@
+{
+  "name": "reliancesmartpoint",
+  "version": "1.0.0",
+  "description": "Group Activity",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarangkale66/RelianceSmartPoint.git"
+  },
+  "author": "rasika maam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarangkale66/RelianceSmartPoint/issues"
+  },
+  "homepage": "https://github.com/Sarangkale66/RelianceSmartPoint#readme"
+}
